@@ -7,6 +7,6 @@
 
 ### Configurando o Kali Linux
 
-### Instalando as bibliotacas Pyaes
+### Instalando a biblioteca Pyaes
 - sudo apt update
 - sudo apt -y install python3-pyaes
